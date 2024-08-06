@@ -1,0 +1,5 @@
+test/*
+data/*
+local/*
+results/*
+.ipynb_checkpoints/*
